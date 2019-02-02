@@ -1,3 +1,5 @@
+
+#code for matrix multiplication
 a,b=map(int,input("No of rows and coloumns of matrix 1 ").split())
 c,d=map(int,input("No of rows and coloumns of matrix 2 ").split())
 if b==c:
